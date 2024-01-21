@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdur rehman ali</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Ruby on rails and MERN**
+- 🌱 I’m currently learning **ROR, Django and MERN**
 
-- 💬 Ask me about **React and ROR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
